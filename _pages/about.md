@@ -8,12 +8,10 @@ profile:
   align: right
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>johannes.autenrieb@dlr.de</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I’m  <b>Johannes</b>, an aerospace enthusiast deeply passionate about control theory. I am a Research Scientist and PhD Candidate at the [Institute of Flight Systems](https://www.dlr.de/en/ft) at the <b>German Aerospace Center (DLR</b> under the guidance of Prof. Stefan Levedag. My research focuses on advancing aerospace technologies with a particular emphasis on the safe control of nonlinear systems in uncertain environments. My goal is to identify problems in control theory based on real-world challenges, explore theoretical solutions thoroughly, and apply these insights to practical issues, particularly in the flight control of novel aircraft such as hypersonic glide vehicles and eVTOL air taxis.
