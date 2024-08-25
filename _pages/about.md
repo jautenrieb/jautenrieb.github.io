@@ -11,7 +11,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I’m **Johannes**, an aerospace enthusiast deeply passionate about control theory. I am a Research Scientist and PhD Candidate at the [Institute of Flight Systems](https://www.dlr.de/en/ft) at the **German Aerospace Center (DLR)**, advised by Prof. Stefan Levedag. My research focuses on advancing aerospace technologies with a particular emphasis on the safe control of nonlinear systems in uncertain environments. My goal is to identify problems in control theory based on real-world challenges, explore theoretical solutions thoroughly, and apply these insights to practical issues, particularly in the flight control of novel aircraft such as hypersonic glide vehicles and eVTOL air taxis.
@@ -20,4 +20,4 @@ As part of my PhD, I had the privilege of visiting the [AAC-Lab](http://aaclab.m
 
 Before joining DLR, I obtained an **M.Sc. degree in Autonomous Vehicle Dynamics and Control** from Cranfield University, UK, where I worked on adaptive flight control for eVTOL air-taxis both in the UK with Rolls-Royce and at the **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea. Prior to that, I earned a **B.Eng. degree in Aerospace Engineering** from the University of Applied Sciences Aachen, Germany.
 
-Outside of my research, I am passionate about Olympic boxing, a sport in which I have actively competed and continue to contribute as a coach and trainer. This discipline not only keeps me physically active but also enhances my ability to stay focused and perform under pressure.<br><br>
+Outside of my research, I am passionate about Olympic boxing, a sport in which I have actively competed and continue to contribute as a coach and trainer. This discipline not only keeps me physically active but also enhances my ability to stay focused and perform under pressure.
