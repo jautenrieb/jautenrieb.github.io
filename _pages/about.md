@@ -20,4 +20,6 @@ As part of my PhD, I had the privilege of visiting the [AAC-Lab](http://aaclab.m
 
 Before joining DLR, I obtained an **M.Sc. degree in Autonomous Vehicle Dynamics and Control** from Cranfield University, UK, where I worked on adaptive flight control for eVTOL air-taxis both in the UK with Rolls-Royce and at the **Korea Advanced Institute of Science and Technology (KAIST)**, South Korea. Prior to that, I earned a **B.Eng. degree in Aerospace Engineering** from the University of Applied Sciences Aachen, Germany.
 
+Outside of my research, I am passionate about Olympic boxing, a sport in which I competed in national and international championships during my high school years (as an active athlete) and during my undergraduate and graduate studies (as a coach). I also have a strong interest in politics and history, as I believe understanding history is crucial for shaping a better future for society. Additionally, I am highly committed to volunteering and mentoring students from underrepresented backgrounds in STEM.
+
 For comments, requests, and inquiries, please contact me at <johannes.autenrieb@dlr.de>.
