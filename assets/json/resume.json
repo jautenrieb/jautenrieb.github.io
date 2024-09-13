@@ -1,20 +1,21 @@
 {
-  "work": [
+    "education": [
     {
-      "name": "German Aerospace Center (DLR)",
-      "position": "Research Associate",
-      "url": "",
-      "startDate": "2019-12-01",
+      "institution": "Technical University of Braunschweig",
       "location": "Braunschweig, GER",
+      "url": "",
+      "area": "",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2022-03-01",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Research in the field of nonlinear Guidance & Control and advising industrial/political institutions regarding the implications of hypersonic missile technologies."
+      "score": "",
+      "courses": [
+        "Dissertation Title: A Nonlinear Attitude Control Approach for a Class of Overactuated and Highly Uncertain Hypersonic Flight Systems."
       ]
     },
     {
       "name": "University of Oxford",
-      "position": "Visiting Scholar",
+      "position": "Visiting Ph.D. Student",
       "url": "",
       "startDate": "2024-08-01",
       "endDate": "2024-10-31",
@@ -26,7 +27,7 @@
     },
     {
       "name": "Massachusetts Institute of Technology",
-      "position": "Visiting Scholar",
+      "position": "Visiting Ph.D. Student",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2023-02-01",
@@ -34,6 +35,46 @@
       "summary": "",
       "highlights": [
         "Research on control barrier functions for use in safety-critical, nonlinear, and adaptive flight control systems."
+      ]
+    },
+    {
+      "institution": "Cranfield University",
+      "location": "Cranfield, UK",
+      "url": "",
+      "area": "",
+      "studyType": "M.Sc. in Autonomous Vehicle Dynamics & Control",
+      "startDate": "2018-09-01",
+      "endDate": "2019-10-01",
+      "score": "",
+      "courses": [
+        "Master’s Thesis: Development of a neural network-supported nonlinear flight control system for an air taxi with a tilt-wing concept."
+      ]
+    },
+    {
+      "institution": "University of Applied Sciences Aachen",
+      "location": "Aachen, GER",
+      "url": "",
+      "area": "",
+      "studyType": "B.Eng. in Aerospace Engineering",
+      "startDate": "2012-09-01",
+      "endDate": "2017-03-01",
+      "score": "",
+      "courses": [
+        "Bachelor’s Thesis: Development of a generic parameterized 6DOF flight dynamics model for a flight simulator to improve Eurofighter pilot training."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "German Aerospace Center (DLR)",
+      "position": "Research Associate",
+      "url": "",
+      "startDate": "2019-12-01",
+      "location": "Braunschweig, GER",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Research in the field of nonlinear Guidance & Control and advising industrial/political institutions regarding the implications of hypersonic missile technologies."
       ]
     },
     {
@@ -70,47 +111,6 @@
       "summary": "",
       "highlights": [
         "Collaborated in a multinational Scrum team to develop and integrate new features, tools, and tests for the Eurofighter flight simulation."
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Technical University of Braunschweig",
-      "location": "Braunschweig, GER",
-      "url": "",
-      "area": "",
-      "studyType": "PhD Candidate",
-      "startDate": "2022-03-01",
-      "endDate": "",
-      "score": "",
-      "courses": [
-        "Dissertation Title: A Nonlinear Attitude Control Approach for a Class of Overactuated and Highly Uncertain Hypersonic Flight Systems."
-      ]
-    },
-    {
-      "institution": "Cranfield University",
-      "location": "Cranfield, UK",
-      "url": "",
-      "area": "",
-      "studyType": "M.Sc. in Autonomous Vehicle Dynamics & Control",
-      "startDate": "2018-09-01",
-      "endDate": "2019-10-01",
-      "score": "",
-      "courses": [
-        "Master’s Thesis: Development of a neural network-supported nonlinear flight control system for an air taxi with a tilt-wing concept."
-      ]
-    },
-    {
-      "institution": "University of Applied Sciences Aachen",
-      "location": "Aachen, GER",
-      "url": "",
-      "area": "",
-      "studyType": "B.Eng. in Aerospace Engineering",
-      "startDate": "2012-09-01",
-      "endDate": "2017-03-01",
-      "score": "",
-      "courses": [
-        "Bachelor’s Thesis: Development of a generic parameterized 6DOF flight dynamics model for a flight simulator to improve Eurofighter pilot training."
       ]
     }
   ],
