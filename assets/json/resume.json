@@ -14,26 +14,26 @@
       ]
     },
     {
-      "name": "University of Oxford",
-      "position": "Visiting Ph.D. Student",
+      "institution": "University of Oxford",
+      "studyType": "Visiting Ph.D. Student",
       "url": "",
       "startDate": "2024-08-01",
       "endDate": "2024-10-31",
       "location": "Oxford, UK",
       "summary": "",
-      "highlights": [
+      "courses": [
         "Research on online optimization algorithms for improved decision-making in nonlinear system networks under uncertain dynamic conditions."
       ]
     },
     {
-      "name": "Massachusetts Institute of Technology",
-      "position": "Visiting Ph.D. Student",
+      "institution": "Massachusetts Institute of Technology",
+      "studyType": "Visiting Ph.D. Student",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2023-02-01",
       "location": "Cambridge, US",
       "summary": "",
-      "highlights": [
+      "courses": [
         "Research on control barrier functions for use in safety-critical, nonlinear, and adaptive flight control systems."
       ]
     },
