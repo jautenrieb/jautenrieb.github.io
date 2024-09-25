@@ -24,6 +24,6 @@ Before joining DLR, I obtained an M.Sc. degree in Autonomous Vehicle Dynamics an
 
 #### My main research interests:
 
-* Control Theory
-* Aerial Robotics
+* (Flight) Control Theory
 * Flight Dynamics
+* Aerial Robotics
