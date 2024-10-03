@@ -2,8 +2,9 @@
 layout: cv
 permalink: /cv/
 title: CV
-description: Please take a look at the PDF for a detailed CV.
 nav: true
 nav_order: 3
-cv_pdf: CV_Johannes.pdf
+redirect_to: /assets/pdf/CV_Johannes.pdf
 ---
+
+
