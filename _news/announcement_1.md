@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will begin my position as a Research Associate and PhD student at the German Aerospace Center (DLR), focusing on nonlinear Guidance & Control of highly nonlinear hypersonic missile systems. I am excited to contribute to advancing aerospace defense technologies in this challenging and rapidly evolving field.
