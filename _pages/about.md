@@ -2,14 +2,12 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Reserach Scientist & PhD Candidate</a>,  German Aerospace Center (DLR).
+subtitle: Reserach Scientist & PhD Candidate,  German Aerospace Center (DLR).
 
 profile:
   align: right
   image: avatar.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>johannes 'dot' autenrieb 'at' glasgow 'dot' ac 'dot' uk</p>
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
