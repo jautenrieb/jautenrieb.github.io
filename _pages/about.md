@@ -5,7 +5,7 @@ permalink: /
 subtitle: Reserach Scientist & PhD Candidate,  German Aerospace Center (DLR).
 
 profile:
-  align: right
+  align: left
   image: avatar.jpg
   image_circular: true # crops the image to make it circular
 
