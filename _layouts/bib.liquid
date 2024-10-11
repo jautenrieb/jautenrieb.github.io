@@ -4,7 +4,7 @@
  {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- assign colors = "0A75AD,ff007f" | split: "," -%}
+        {%- assign colors = "0A75AD,ff007f,0A75AD" | split: "," -%}
         {%- assign color_index = entry.abbr | size | modulo: colors.size -%}
         {%- assign random_color = colors[color_index] -%}
         <abbr
