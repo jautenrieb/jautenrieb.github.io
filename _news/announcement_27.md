@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-03-10 13:00:00-0400
+date: 2026-03-10 13:00:00-0400
 inline: true
 related_posts: false
 ---
-I was invited to visit the Aerospace Dynamics and Robust Control (AEROCON) Group at TU Delft, where I presented a talk titled *"Safety Guarantees for Autonomous Aerial Systems: A Control Barrier Function Perspective"*. Many thanks to Prof. Spilios Theodoulis and the colleagues at TU Delft for the invitation and the engaging discussions.
+I had the pleasure of visiting the [Robust Flight Control Group](https://www.tudelft.nl/lr/organisatie/afdelingen/control-and-operations/control-and-simulation/research/aerospace-guidance-navigation-and-control/robust-flight-control) at TU Delft, where I gave a talk on *“Safety Guarantees for Autonomous Aerial Systems: A Control Barrier Function Perspective”*. Many thanks to Dr. Spilios Theodoulis and the team for the invitation and the great discussions.
