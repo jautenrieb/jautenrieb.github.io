@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-08-15
+date: 2026-03-17 15:59:00-0400
 inline: true
+related_posts: false
 ---
-
-Together with an international group of colleagues I'm organising special sessions on ***Control Barrier Functions in Aerospace Applications*** at [CEAS EuroGNC 2026](https://eurognc.ceas.org), which will take place in Madrid, May 5–7, 2026. If you're working on anything related (be it theory, tools, or applications) and are interested in contributing, feel free to reach out!
+Together with an international group of colleagues, I am organizing the tutorial workshop *“Control Barrier Functions in Aerospace: From Foundations to Real-World Applications”* at [CEAS EuroGNC 2026](https://eurognc.ceas.org), taking place in Madrid. Further details, including the program and speakers, are available on the [workshop website](https://safeflighteurognc.github.io/).
