@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-03-10 15:59:00-0400
+date: 2026-03-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
-I was invited to visit the Aerospace Dynamics and Robust Control (AEROCON) Group at TU Delft, where I presented a talk titled *"Safety Guarantees for Autonomous Aerial Systems: A Control Barrier Function Perspective"*. Many thanks to Prof. Spilios Theodoulis and the colleagues at TU Delft for the invitation and the engaging discussions.
+Our manuscript, [Robust Safety Filters for Lipschitz-Bounded Adaptive Closed-Loop Systems with Structured Uncertainties](https://arxiv.org/abs/2603.14403), is now available as a pre-print on arXiv.
