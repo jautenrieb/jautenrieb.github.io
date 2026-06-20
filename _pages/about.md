@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Reserach Scientist & PhD Candidate,  German Aerospace Center (DLR).
+subtitle: Reserach Scientist,  German Aerospace Center (DLR).
 
 profile:
   align: left
